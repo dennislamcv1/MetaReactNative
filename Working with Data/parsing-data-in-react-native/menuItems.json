@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "title": "Spinach Artichoke Dip",
+      "price": "10"
+    },
+    {
+      "title": "Hummus",
+      "price": "10"
+    },
+    {
+      "title": "Fried Calamari Rings",
+      "price": "51"
+    },
+    {
+      "title": "Fried Mushroom",
+      "price": "12"
+    },
+    {
+      "title": "Greek",
+      "price": "7"
+    },
+    {
+      "title": "Caesar",
+      "price": "7"
+    },
+    {
+      "title": "Tuna Salad",
+      "price": "10"
+    },
+    {
+      "title": "Grilled Chicken Salad",
+      "price": "12"
+    },
+    {
+      "title": "Water",
+      "price": "3"
+    },
+    {
+      "title": "Coke",
+      "price": "3"
+    },
+    {
+      "title": "Beer",
+      "price": "7"
+    },
+    {
+      "title": "Iced Tea",
+      "price": "3"
+    }
+  ]
+}
